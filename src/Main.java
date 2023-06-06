@@ -13,7 +13,7 @@ public class Main {
         System.out.println("\n************************************");
 
         int operacao;
-        double valor =0;
+        double valor;
         Scanner leitura = new Scanner(System.in);
 
         do {
